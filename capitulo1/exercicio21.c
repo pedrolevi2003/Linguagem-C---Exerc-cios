@@ -13,6 +13,9 @@ int main()
     /* Neste caso, usei a fórmula da equação horária da posição. Não sei se esta é a maneira mais indicada para resolver esse problema. 
     2s = 2s0 + 2v0t + at² => at² = 2s - (2s0 + 2v0t) => a = (2s - (2s0 + 2v0t)) / t²*/
 
+
+    /* Acredito que essa solução não esteja 100% correta */
+
     printf("Digite o tempo em segundos: ");
     scanf("%d", &tempo);
 
